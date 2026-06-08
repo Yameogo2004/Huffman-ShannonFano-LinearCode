@@ -1,5 +1,24 @@
 # Projet de Codage de Source et de Canal
 
+### Badges
+
+![MATLAB](https://img.shields.io/badge/MATLAB-R2019b+-orange?logo=mathworks&logoColor=white)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![License](https://img.shields.io/badge/license-Academic-red)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
+![Commits](https://img.shields.io/github/commit-activity/m/votre-username/Huffman-ShannonFano-LinearCode)
+![Code size](https://img.shields.io/github/languages/code-size/votre-username/Huffman-ShannonFano-LinearCode)
+![Issues](https://img.shields.io/github/issues/votre-username/Huffman-ShannonFano-LinearCode)
+![Last commit](https://img.shields.io/github/last-commit/votre-username/Huffman-ShannonFano-LinearCode)
+
+### Badges personnalisés
+
+![Huffman](https://img.shields.io/badge/Huffman-Optimal-0066cc)
+![Shannon-Fano](https://img.shields.io/badge/Shannon--Fano-Approché-cc6600)
+![Linear Code](https://img.shields.io/badge/Linear%20Code-C(7,3)-green)
+![App Designer](https://img.shields.io/badge/App%20Designer-Interface-purple)
+
 ## Compression Huffman / Shannon-Fano & Code Linéaire C(7,3)
 
 ---
