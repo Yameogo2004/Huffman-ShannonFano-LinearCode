@@ -90,5 +90,5 @@ Application MATLAB interactive développée avec **App Designer** pour le codage
 
 ### 1. Cloner le dépôt
 ```bash
-git clone https://github.com/votre-username/Huffman-ShannonFano-LinearCode.git
+git clone https://github.com/Yameogo2004/Huffman-ShannonFano-LinearCode.git
 cd Huffman-ShannonFano-LinearCode
