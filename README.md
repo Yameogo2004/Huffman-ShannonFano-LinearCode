@@ -12,7 +12,7 @@ Application MATLAB interactive développée avec **App Designer** pour le codage
 - Compression et décompression de fichiers **texte (.txt)** et **images (.jpg, .jpeg, .png)**
 - Algorithmes : **Huffman** et **Shannon-Fano**
 - Extension d'ordre **N** (codage par blocs de 1 à 10 symboles)
-- Affichage vertical des arbres binaires avec branches colorées
+- Affichage  des arbres binaires avec branches colorées
 - Calcul des métriques de performance
 
 ### Module 2 : Codage de canal (Correction d'erreurs)
@@ -41,7 +41,7 @@ Application MATLAB interactive développée avec **App Designer** pour le codage
 | Chargement | Fichiers .txt, .jpg, .jpeg, .png |
 | Algorithmes | Huffman (optimal) / Shannon-Fano (approché) |
 | Extension N | Codage par blocs de N symboles (1 à 10) |
-| Arbres | Affichage vertical avec branches 0 (bleu) et 1 (rouge) |
+| Arbres | Affichage  avec branches 0 et 1 |
 | Décompression | Restauration exacte du fichier original |
 
 ### Métriques calculées
